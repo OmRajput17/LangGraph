@@ -8,3 +8,5 @@ langchain_groq
 python-dotenv
 arxiv
 wikipedia
+deepagents 
+tavily-python

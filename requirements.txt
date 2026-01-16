@@ -10,3 +10,4 @@ arxiv
 wikipedia
 deepagents 
 tavily-python
+langgraph-cli[inmem]
